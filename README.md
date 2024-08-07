@@ -1,5 +1,5 @@
 # SecM Analysis Tools
-This repository contains Jupyter Notebooks and scripts for the analysis of E. coli ribosomes stalled by the peptide SecM(Ms). 
+This repository contains Jupyter Notebooks and scripts for the analysis of E. coli ribosomes stalled by the peptide SecM(_Ms_). 
 
 ## Index
 
